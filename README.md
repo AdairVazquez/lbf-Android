@@ -1,16 +1,3 @@
-# integradora_yoscm
+<p align="center"><img src="https://i.ibb.co/MywthhvQ/lbf.png" width="400" alt="Laravel Logo"></p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p> Local Business finder es una solución para la comunidad de una zona en específico, enfocada principalmente en la busqueda, localización, información y comunicación de los negocios locales (Tiendas de abarrotes, estéticas, farmacias, etc.). Este protecto se desarrollo en lenguaje Dart con ayuda del marco de trabajo Flutter. En este reopositorio se tiene la parte de la aplicación movil, en esta los usuarios podrán buscar locales, ver si se encuentran abiertos, si cuentan con estacionamiento y la posibilidad de abrir un chat interactivo con el local. Ambas aplicaciones se conectan por medio de una base de datos en firebase. </p>
